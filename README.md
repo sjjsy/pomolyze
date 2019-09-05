@@ -1,2 +1,2 @@
 # pomolyze
-Scripts for time personal use analysis
+Scripts for personal time use analysis
