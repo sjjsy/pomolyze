@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# Ignore the data and out folders to keep the data private
+data
+out
